@@ -11,7 +11,6 @@
 
   - Linkedin Alex: https://www.linkedin.com/in/alex-dll/
 
-  - Site hospedado: https://api-filmes-brown.vercel.app/
 
 ## How to run this project
 
